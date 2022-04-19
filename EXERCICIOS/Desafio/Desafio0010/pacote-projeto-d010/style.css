@@ -1,0 +1,54 @@
+@charset "UTF-8";
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #7bdda7;
+}
+
+#Cabeçalho{
+    background-image: linear-gradient(to bottom, #4c8665, #146838, #08351b);
+    color: white;
+    border-radius: 20px;
+}
+
+#Titulo{
+    text-align: center;
+}
+#subtitulo{
+    text-align: center;
+}
+a{
+    color: #94a099;
+}
+
+main{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+p{
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 20px;
+    width: 780px;
+    margin: auto;   
+}
+h1{
+    text-indent: 10px;
+}
+h2{
+    text-indent: 10px;
+}
+
+#android{
+    text-align: center;
+}
+img{
+    border-radius: 30;
+}
